@@ -1,3 +1,4 @@
+I just publish the information.
 # 🖤 Portfolio Iqbal
 
 Website portfolio full-stack dengan React.js, Express.js, MySQL, Tailwind CSS, dan Alpine.js.
